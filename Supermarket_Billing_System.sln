@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Supermarket_Billing_System", "Supermarket_Billing_System\Supermarket_Billing_System.vcxproj", "{97436C86-7297-43F7-97F7-127F46F84321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97436C86-7297-43F7-97F7-127F46F84321}.Debug|x64.ActiveCfg = Debug|x64
+		{97436C86-7297-43F7-97F7-127F46F84321}.Debug|x64.Build.0 = Debug|x64
+		{97436C86-7297-43F7-97F7-127F46F84321}.Debug|x86.ActiveCfg = Debug|Win32
+		{97436C86-7297-43F7-97F7-127F46F84321}.Debug|x86.Build.0 = Debug|Win32
+		{97436C86-7297-43F7-97F7-127F46F84321}.Release|x64.ActiveCfg = Release|x64
+		{97436C86-7297-43F7-97F7-127F46F84321}.Release|x64.Build.0 = Release|x64
+		{97436C86-7297-43F7-97F7-127F46F84321}.Release|x86.ActiveCfg = Release|Win32
+		{97436C86-7297-43F7-97F7-127F46F84321}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ABE8FE6-B7F4-4289-9142-A05024B4BE81}
+	EndGlobalSection
+EndGlobal
